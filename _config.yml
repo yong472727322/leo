@@ -1,2 +1,4 @@
 theme: minima
 remote_theme: benbalter/retlab
+name: leo github
+markdown: kramdown
